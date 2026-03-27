@@ -10,7 +10,7 @@
 
 * 🎓 Master's in Management of Information Systems (France)
 * 💼 Working as a Data Developer
-* 📊 Experienced in SQL, Excel, Power BI
+* 📊 Experienced in SQL, Excel, Power BI, Python
 * 🔍 Strong focus on data cleaning and data quality
 * 📈 Interested in Business Intelligence & Data Analysis
 
