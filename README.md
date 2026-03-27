@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-* 🎓 Master's in Information Systems (France)
+* 🎓 Master's in Management of Information Systems (France)
 * 💼 Working as a Data Developer
 * 📊 Experienced in SQL, Excel, Power BI
 * 🔍 Strong focus on data cleaning and data quality
