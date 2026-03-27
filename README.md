@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Hamdi
 
-<!--
-**hamdi-syai/hamdi-syai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Developer | SQL | Data Cleaning | Reporting
+📍 Based in France
+🎯 Passionate about turning raw data into meaningful insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Master's in Information Systems (France)
+* 💼 Working as a Data Developer
+* 📊 Experienced in SQL, Excel, Power BI
+* 🔍 Strong focus on data cleaning and data quality
+* 📈 Interested in Business Intelligence & Data Analysis
+
+---
+
+## 🛠️ Skills
+
+**Languages & Tools:**
+
+* SQL (MySQL, PostgreSQL)
+* Excel / Google Sheets
+* Power BI
+* Python
+
+**Data Skills:**
+
+* Data Cleaning
+* Data Transformation
+* Data Analysis
+* Dashboard Creation
+
+---
+
+## 📫 Contact Me
+
+* LinkedIn: https://www.linkedin.com/in/syaibatul-hamdi/
+* Email: syaibatul.hamdi35@gmail.com
+
+---
+
+⭐️ Feel free to check my repositories and give a star if you like my work!
