@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Hamdi (Syaibatul Hamdi)
 
-💼 **Data Consultant** | ETL · Data Migration · AI-Powered Tools  
+💼 Working as **Data Consultant** | ETL · Data Migration · AI-Powered Tools  
 📍 Based in France &nbsp;·&nbsp; 🇮🇩 Indonesian · 🇫🇷 French (B2) · 🇬🇧 English  
 🎓 Master's in Management Information Systems
+📊 Experienced in SQL, Excel, Power BI, Python
+* 🔍 Strong focus on data cleaning and data quality
+* 📈 Interested in Business Intelligence & Data Analysis
 
 ---
 
@@ -10,7 +13,6 @@
 
 I'm a data professional working at the intersection of **data engineering** and **AI integration**. In my daily work I build ETL pipelines and data migration systems, while on the side I develop AI-powered internal tools — including a full recruitment platform that leverages LLMs for CV generation and semantic scoring.
 
-I'm also continuously sharpening my data science skills through the **Dibimbing.id Data Science & Analyst Bootcamp**, where I've shipped projects across machine learning, BI dashboards, and time series forecasting.
 
 ---
 
@@ -33,7 +35,6 @@ I'm also continuously sharpening my data science skills through the **Dibimbing.
 **AI / LLM**  
 ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FF7000?style=flat&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6C47FF?style=flat&logoColor=white)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -41,70 +42,12 @@ I'm also continuously sharpening my data science skills through the **Dibimbing.
 
 ---
 
-## 📦 Featured Projects
+**Data Skills:**
 
-### 🤖 THEIA-IT ESN Recruitment Platform
-> Flask · Mistral AI · OpenRouter (Qwen) · SSE Streaming
-
-Internal AI platform for an IT services company (ESN) that automates recruitment workflows:
-- **CV Generator** — generates tailored CVs from candidate profiles via Mistral AI cloud API
-- **CV Scorer** — semantic scoring using LLM (Qwen via OpenRouter) against CIGREF 2024 job profiles, replacing keyword matching
-- **Dossier Client Generator** — streaming chat interface (SSE) for generating client-facing dossiers
-- GDPR-compliant, with local Ollama fallback
-
----
-
-### ✈️ Flight Price Prediction App
-> Python · Random Forest · Streamlit · Render.com
-
-Deployed machine learning app predicting flight ticket prices with **R² = 0.9809**.  
-Interactive Streamlit interface with model explainability features.
-
----
-
-### 🏦 Bank Churn Prediction
-> XGBoost · SMOTE · Streamlit · Hyperparameter Tuning
-
-End-to-end churn prediction pipeline with class imbalance handling (SMOTE) and a Streamlit app for real-time inference.
-
----
-
-### 📊 Customer Segmentation — Power BI
-> Power BI · DAX · Sample Superstore Dataset
-
-RFM-based customer segmentation dashboard with cohort analysis and actionable business insights. Built as part of the Dibimbing.id bootcamp (Day 26).
-
----
-
-### 📈 Crypto Futures Trading Bot
-> Python · Bybit API · EMA/RSI/ATR · Telegram
-
-Automated futures trading bot with:
-- EMA/RSI/ATR-based signal strategy
-- Risk management (position sizing, stop-loss)
-- Backtesting engine
-- Telegram notifications
-
----
-
-### 🌏 Archipel Voyage — Travel Website
-> Flask · SQLite · Render.com
-
-Full-stack Indonesian travel booking website with an admin panel, booking system, and a live deployment on Render.com.
-
----
-
-## 📊 Other ML & Analytics Projects
-
-| Project | Methods | Dataset |
-|---|---|---|
-| Time Series Forecasting | SARIMA, Holt-Winters | E-commerce |
-| Airline Customer Clustering | K-Means | Airline loyalty |
-| Telco Churn Analysis | Random Forest | Telco |
-| RFM & Cohort Analysis | RFM, Cohort | Superstore |
-| A/B Testing | Statistical testing | Marketing |
-| Social Media Engagement | EDA + modeling | Instagram/X |
-| Job Market Scraping | BeautifulSoup | JobStreet |
+* Data Cleaning
+* Data Transformation
+* Data Analysis
+* Dashboard Creation
 
 ---
 
